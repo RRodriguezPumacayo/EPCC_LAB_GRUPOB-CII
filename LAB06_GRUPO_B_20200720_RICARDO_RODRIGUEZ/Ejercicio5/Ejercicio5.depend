@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652573014 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio5\main.cpp
+	"matrices.h"
+	<iostream>
+
+1652573323 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio5\matrices.cpp
+	"matrices.h"
+
+1652479682 d:\unsa_2022\cienciascomputacion2\practicando\ejercicio5\matrices.h
+	<iostream>
+	<random>
+

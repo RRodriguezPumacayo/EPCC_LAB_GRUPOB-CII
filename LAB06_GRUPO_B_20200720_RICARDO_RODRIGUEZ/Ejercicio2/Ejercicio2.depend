@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1652403663 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio2\student.cpp
+	"student.h"
+	<string>
+
+1652403402 d:\unsa_2022\cienciascomputacion2\practicando\ejercicio2\student.h
+	<iostream>
+	<string>
+
+1652403652 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio2\main.cpp
+	<iostream>
+	"student.h"
+
+1652414073 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio2\main.cpp
+	<iostream>
+	"student.h"
+
+1652413728 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio2\student.h
+	<iostream>
+	<string>
+
+1652582734 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio2\student.cpp
+	"student.h"
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652401425 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio1\main.cpp
+	<iostream>
+
+1652402040 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio1\rectangulo.cpp
+	"rectangulo.h"
+
+1652401757 d:\unsa_2022\cienciascomputacion2\practicando\ejercicio1\rectangulo.h
+	<iostream>
+
+1652582207 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio1\rectangulo.cpp
+	"rectangulo.h"
+
+1652582342 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio1\rectangulo.h
+	<iostream>
+
+1652582205 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio1\main.cpp
+	"rectangulo.h"
+
