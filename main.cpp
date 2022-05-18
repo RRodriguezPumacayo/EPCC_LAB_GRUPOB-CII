@@ -1,18 +1,15 @@
 /*
-1. Crear una clase Persona del cual tendrá métodos asignar una edad y nombre. Una
-segunda clase, alumno, tendrá que heredar este contenido y a través de esta clase
-poder asignar los datos de edad y nombre de los estudiantes.
+2. Crear una clase Color que mantenga 3 valores (RGB). Una segunda clase Material,
+tendrá como información una variable de texto que describa algún material (Ejemplo:
+madera, vidrio, platico, etc.) Una tercera clase, Objetos, deberá de heredar contenido
+de ambas clases con la finalidad de describir diferentes objetos en cuanto a color y el
+material. (Ejemplo: mesa de color café y material de plástico)
 */
 
-#include "persona.h"
+#include "ejercicio2.h"
 
-int main()
-{
-    string nombre;
-    int edad;
-    alumno unsa(nombre,edad);
-
-    unsa.inputName();
-    unsa.inputAge();
-    unsa.mostrarDatos();
+int main(){
+    std::string palabra={"hola"};
+    Objeto cosa(palabra);
+    cosa.primerColor();
 }
