@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653061887 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio1\main.cpp
+	"persona.h"
+
+1653061827 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio1\persona.h
+	<iostream>
+
+1653061912 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio1\persona.cpp
+	"persona.h"
+

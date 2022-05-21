@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653111693 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio4\main.cpp
+	"claseDisco.h"
+
+1653111825 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio4\clasedisco.h
+	"claseMultimedia.h"
+
+1653111538 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio4\clasemultimedia.h
+	<iostream>
+
+1653111007 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio4\funciones.cpp
+	"claseDisco.h"
+
