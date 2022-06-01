@@ -113,4 +113,8 @@ int main(){
             mostrarLista(lista);
         }
     }while(opc!=5);
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3e76562da92f3a507797194d3f83847031b59d6d
 }

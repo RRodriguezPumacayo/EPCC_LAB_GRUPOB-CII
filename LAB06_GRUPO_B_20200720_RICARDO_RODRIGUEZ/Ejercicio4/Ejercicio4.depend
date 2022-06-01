@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652571073 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio4\arreglo.cpp
+	"arreglo.h"
+
+1652571012 d:\unsa_2022\cienciascomputacion2\practicando\ejercicio4\arreglo.h
+	<iostream>
+	<vector>
+
+1652572519 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio4\main.cpp
+	"arreglo.h"
+

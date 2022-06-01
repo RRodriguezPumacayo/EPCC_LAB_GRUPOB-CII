@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1652405054 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio3\main.cpp
+	"fecha.h"
+	<iostream>
+
+1652404759 source:d:\unsa_2022\cienciascomputacion2\practicando\ejercicio3\fecha.cpp
+	"fecha.h"
+
+1652404686 d:\unsa_2022\cienciascomputacion2\practicando\ejercicio3\fecha.h
+	<iostream>
+	<string>
+
+1652412595 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio3\fecha.cpp
+	"fecha.h"
+
+1652412036 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio3\fecha.h
+	<iostream>
+	<string>
+
+1652412457 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\labb06\ejercicio3\main.cpp
+	"fecha.h"
+
