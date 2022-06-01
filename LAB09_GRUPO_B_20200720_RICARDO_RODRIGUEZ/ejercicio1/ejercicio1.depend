@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654052762 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio1\main.cpp
+	"argumentos.h"
+
+1654052778 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio1\argumentos.h
+	<iostream>
+

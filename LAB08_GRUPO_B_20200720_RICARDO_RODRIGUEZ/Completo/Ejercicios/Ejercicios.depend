@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1653268865 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classrectangulo.cpp
+	"classRectangulo.h"
+
+1653275322 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\main.cpp
+	"classRectangulo.h"
+	"classElipse.h"
+	"classCuadrado.h"
+	"classCirculo.h"
+
+1653271516 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classforma.cpp
+	"classForma.h"
+
+1653268712 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classrectangulo.h
+	"classForma.h"
+
+1653276017 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classforma.h
+	<iostream>
+
+1653271107 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classelipse.cpp
+	"classElipse.h"
+
+1653277215 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classelipse.h
+	"classForma.h"
+
+1653272562 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classcuadrado.cpp
+	"classCuadrado.h"
+
+1653277218 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classcuadrado.h
+	"classRectangulo.h"
+
+1653277394 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classcirculo.h
+	"classElipse.h"
+
+1653273545 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab08\completo\ejercicios\classcirculo.cpp
+	"classCirculo.h"
+

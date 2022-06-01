@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654052622 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio2\main.cpp
+	"operaciones.h"
+
+1654045881 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio2\operaciones.h
+	<iostream>
+

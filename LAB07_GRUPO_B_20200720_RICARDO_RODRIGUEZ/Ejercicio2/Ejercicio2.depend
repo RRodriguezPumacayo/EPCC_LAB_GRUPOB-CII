@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653093471 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio2\main.cpp
+	"claseBase.h"
+
+1653104101 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio2\clasebase.h
+	<iostream>
+
+1653093306 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio2\clasebase.cpp
+	"claseBase.h"
+

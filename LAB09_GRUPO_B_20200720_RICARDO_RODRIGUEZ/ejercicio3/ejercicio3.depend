@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1654047542 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio3\main.cpp
+	"correo.h"
+
+1654047379 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio3\correo.h
+	<iostream>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1653172721 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio6\main.cpp
+	"classGallina.h"
+	"classGanso.h"
+	"classPato.h"
+
+1653172716 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio6\funciones.cpp
+	"classAve.h"
+	"classGallina.h"
+	"classGanso.h"
+	"classPato.h"
+
+1653172716 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio6\classave.h
+	<iostream>
+
+1653157426 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio6\classgallina.h
+	"classAve.h"
+
+1653172076 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio6\classganso.h
+	"classAve.h"
+
+1653157450 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio6\classpato.h
+	"classAve.h"
+

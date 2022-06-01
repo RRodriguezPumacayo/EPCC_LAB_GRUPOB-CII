@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1653117320 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio5\main.cpp
+	"operacionFactorial.h"
+
+1653117271 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio5\funciones.cpp
+	"operacionFactorial.h"
+
+1653117023 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio5\operacionfactorial.h
+	"operacionBase.h"
+
+1653117260 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\epcc_lab_grupob-cii\lab07\ejercicio5\operacionbase.h
+	<iostream>
+

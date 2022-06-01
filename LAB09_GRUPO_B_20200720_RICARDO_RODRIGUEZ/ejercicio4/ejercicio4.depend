@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1654056055 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio4\main.cpp
+	"ordenamiento.h"
+
+1654057487 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab09\ejercicio4\ordenamiento.h
+	<iostream>
+	<vector>
+
