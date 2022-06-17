@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655428434 source:c:\users\usuario\documents\proyectos\hanoi\main.cpp
+	"tower.h"
+
+1655428357 c:\users\usuario\documents\proyectos\hanoi\tower.h
+	<iostream>
+
+1655428645 source:c:\users\usuario\documents\proyectos\hanoi\tower.cpp
+	"tower.h"
+
