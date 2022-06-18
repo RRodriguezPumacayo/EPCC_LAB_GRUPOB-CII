@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655526373 source:d:\unsa_2022\cienciascomputacion2\teoria\ejerciciosclase\semana09\lab11\main.cpp
+	"hanoi.h"
+
+1655525404 d:\unsa_2022\cienciascomputacion2\teoria\ejerciciosclase\semana09\lab11\hanoi.h
+	<iostream>
+
+1655526327 source:d:\unsa_2022\cienciascomputacion2\teoria\ejerciciosclase\semana09\lab11\hanoi.cpp
+	"hanoi.h"
+
