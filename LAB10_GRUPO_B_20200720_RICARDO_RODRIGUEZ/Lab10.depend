@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1655094560 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab10\lab10\main.cpp
+	<windows.h>
+	"cabecera.h"
+
+1655093305 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab10\lab10\cabecera.h
+	<iostream>
+	<random>
+	<cstdlib>
+
+1655094816 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab10\lab10\metodos.cpp
+	"cabecera.h"
+
