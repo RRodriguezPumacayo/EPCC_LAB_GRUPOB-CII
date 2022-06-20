@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655699629 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\asf\lab012_colas\main.cpp
+	"cabecera.h"
+
+1655699523 d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\asf\lab012_colas\cabecera.h
+	<iostream>
+
+1655699512 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\asf\lab012_colas\metodos.cpp
+	"cabecera.h"
+
