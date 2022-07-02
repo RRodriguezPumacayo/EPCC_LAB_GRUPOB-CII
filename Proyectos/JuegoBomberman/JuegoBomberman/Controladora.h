@@ -1,14 +1,12 @@
 #ifndef _CONTROLADORA_H_
 #define _CONTROLADORA_H_
 #include"Escenario.h"
-#include"Jugador.h"
 
 class CControladora
 {
 	public:
 		CControladora() {
-			oEscenario = new CEscenario();
-			oJugador = new CJugador(50,50);
+			oEscenario = new CEscenario();			
 		}
 		~CControladora() {}
 
@@ -17,18 +15,13 @@ class CControladora
 			oEscenario->generarMatriz();
 		}
 
-		void dibujar(Graphics^ g, Bitmap^bmpBase, Bitmap^ bmpSolido, Bitmap^ bmpDestruible, Bitmap^bmpJugador) 
+		void dibujar(Graphics^ g, Bitmap^bmpBase, Bitmap^ bmpSolido, Bitmap^ bmpDestruible) 
 		{
 			oEscenario->pintarBase(g,bmpBase);
-			oEscenario->pintarMatriz(g, bmpSolido, bmpDestruible);
-			oJugador->moverJugador(g, bmpJugador); 
-		}
-		CJugador* getoJugador() {
-			return oJugador;
-		}
+			oEscenario->pintarMatriz(g, bmpSolido, bmpDestruible);			
+		}		
 	private:
-		CEscenario* oEscenario;
-		CJugador* oJugador;
+		CEscenario* oEscenario;		
 };
 
 #endif

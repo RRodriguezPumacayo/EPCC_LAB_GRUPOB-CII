@@ -5,5 +5,4 @@ using namespace JuegoBomberman;
 int main() {
 	Application::EnableVisualStyles();
 	Application::Run(gcnew Juego());
-	
 }

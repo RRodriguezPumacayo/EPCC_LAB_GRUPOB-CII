@@ -20,6 +20,11 @@ class CEscenario
 				matriz[i] = new int[columnas];
 			}
 
+			// matriz[i][j] = 0, zona aparicion del personaje
+			// matriz[i][j] = 1, bloque fijo
+			// matriz[i][j] = 2, bloque libre
+			// matriz[i][j] = 3, bloque destruible
+
 			for (int i{ 0 }; i < filas; i++) {				
 				for (int j{ 0 }; j < columnas; j++) {
 					if (i==0 || j==0 || i==filas-1 || j==columnas-1) //Bloques fijos del limite del mapa

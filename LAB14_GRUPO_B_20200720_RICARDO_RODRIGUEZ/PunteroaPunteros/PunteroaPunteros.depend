@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656638010 source:d:\unsa_2022\cienciascomputacion2\laboratorio_ccii\lab14\punteroapunteros\main.cpp
+	"stdio.h"
+	<time.h>
+	"iostream"
+

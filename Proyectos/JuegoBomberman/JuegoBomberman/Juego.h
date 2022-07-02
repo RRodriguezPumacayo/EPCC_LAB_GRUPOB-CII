@@ -21,10 +21,9 @@ namespace JuegoBomberman {
 		Bitmap^ bmpSolido = gcnew Bitmap("imagenes\\bmpSolido.png");
 		Bitmap^ bmpDestruible = gcnew Bitmap("imagenes\\bmpDestruible.png");
 		Bitmap^ bmpSuelo = gcnew Bitmap("imagenes\\bmpSuelo.png");
-		Bitmap^ bmpJugador = gcnew Bitmap("imagenes\\Jugador.png");
+
 		Juego(void)
-		{
-			bmpJugador->MakeTransparent(bmpJugador->GetPixel(0, 0));
+		{			
 			InitializeComponent();
 			//
 			//TODO: agregar código de constructor aquí
@@ -76,9 +75,7 @@ namespace JuegoBomberman {
 			this->ClientSize = System::Drawing::Size(417, 426);
 			this->Name = L"Juego";
 			this->Text = L"Juego";
-			this->Load += gcnew System::EventHandler(this, &Juego::Juego_Load);
-			this->KeyDown += gcnew System::Windows::Forms::KeyEventHandler(this, &Juego::mantenerTecla);
-			this->KeyUp += gcnew System::Windows::Forms::KeyEventHandler(this, &Juego::ultimaTecla);
+			this->Load += gcnew System::EventHandler(this, &Juego::Juego_Load);					
 			this->ResumeLayout(false);
 
 		}
@@ -89,42 +86,13 @@ namespace JuegoBomberman {
 		BufferedGraphicsContext^ espacio = BufferedGraphicsManager::Current;
 		BufferedGraphics^ buffer = espacio->Allocate(g, this->ClientRectangle);
 
-		oControladora->dibujar(buffer->Graphics, bmpSuelo, bmpSolido, bmpDestruible, bmpJugador);
+		oControladora->dibujar(buffer->Graphics, bmpSuelo, bmpSolido, bmpDestruible);
 		buffer->Render(g);
 		delete buffer, espacio, g;
 	}
 	private: System::Void Juego_Load(System::Object^ sender, System::EventArgs^ e) {
 		oControladora->cambiarNivel();
 	}
-
-	private: System::Void mantenerTecla(System::Object^ sender, System::Windows::Forms::KeyEventArgs^ e) {
-		switch (e->KeyCode)
-		{
-		case Keys::Up:
-			oControladora->getoJugador()->setDireccion(Direcciones::Arriba);
-			break;
-		case Keys::Down:
-			oControladora->getoJugador()->setDireccion(Direcciones::Abajo);
-			break;
-		case Keys::Left:
-			oControladora->getoJugador()->setDireccion(Direcciones::Izquierda);
-			break;
-		case Keys::Right:
-			oControladora->getoJugador()->setDireccion(Direcciones::Derecha);
-			break;
-
-		default:
-			break;
-		}
-	}
-	private: System::Void ultimaTecla(System::Object^ sender, System::Windows::Forms::KeyEventArgs^ e) {
-		switch (e->KeyCode)
-		{
-
-		default:
-			oControladora->getoJugador()->setDireccion(Direcciones::Ninguna);
-			break;
-		}
-	}
+	
 };
 }
